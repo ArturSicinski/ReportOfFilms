@@ -1,0 +1,362 @@
+-- Name of directors, number of films, average duration of films, sum of the duration of all films
+
+select
+	directors_list as Director,
+	    count(distinct title) as movie_count_general,
+	        round(avg(duration),0) as average_movie_duration,
+	            sum(duration) as all_movies_duration
+from
+	lists
+join
+	data
+on
+	directors_list=director
+or
+	directors_list=director_2
+or
+	directors_list=director_3
+
+where
+	data.type = 'movie' and genre!='Stand up'
+group by 1
+order by 2 desc;
+
+-- ----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-- Basic data - director, film title, year of production, country, film duration, rating, film description, cast
+
+select distinct
+    lists.directors_list as Director,
+        data.title,
+            data.release_year,
+                data.country,
+                    data.duration,
+                        data.rating,
+                            data.description,
+                                data.cast
+from
+    lists
+join
+    data
+on
+	directors_list=director
+or
+	directors_list=director_2
+or
+	directors_list=director_3
+where
+    type = 'movie' and genre!='Stand up';
+
+-- ----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+-- directors' activity on specific platforms
+
+select -- naprawiłem i działa dobrze, 2,5 minuty
+    lists.directors_list AS director,
+    sum(case when d.service='N' then 1 else 0 end) Netflix,
+    sum(case when d.service='A' then 1 else 0 end) AS Amazon,
+    sum(case when d.service='D' then 1 else 0 end) AS Disney_plus,
+    sum(case when d.service='H' then 1 else 0 end) AS Hulu
+from
+    lists
+join
+    data d on directors_list = d.director
+           or directors_list = d.director_2
+           or directors_list = d.director_3
+where
+    d.type = 'movie' and genre!='Stand up'
+group by
+    directors_list;
+
+-- ----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+-- number of videos on platforms
+
+select
+    sum(case when d.service='N' then 1 else 0 end) Netflix,
+    sum(case when d.service='A' then 1 else 0 end) AS Amazon,
+    sum(case when d.service='D' then 1 else 0 end) AS Disney_plus,
+    sum(case when d.service='H' then 1 else 0 end) AS Hulu
+from
+    data d
+where
+    d.type = 'movie' and d.genre!='Stand up';
+
+-- ----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+-- number of directors listed on the platforms
+
+select
+    sum(case when d.service='N' then 1 else 0 end) Netflix,
+    sum(case when d.service='A' then 1 else 0 end) AS Amazon,
+    sum(case when d.service='D' then 1 else 0 end) AS Disney_plus,
+    sum(case when d.service='H' then 1 else 0 end) AS Hulu
+from
+    data d
+where
+    d.type = 'movie' and d.genre!='Stand up' and director is not null;
+
+-- ----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+-- number of films created in a given year on platforms
+
+select
+    l.years,
+    sum(case when d.service='N' then 1 else 0 end) Netflix,
+    sum(case when d.service='A' then 1 else 0 end) AS Amazon,
+    sum(case when d.service='D' then 1 else 0 end) AS Disney_plus,
+    sum(case when d.service='H' then 1 else 0 end) AS Hulu
+from
+    lists l
+join
+    data d
+on
+    l.years=d.release_year
+and
+    d.type = 'movie' and genre!='Stand up'
+
+group by l.years;
+
+
+-- ----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+-- the number of genres created in a given year in general
+
+
+select
+    d.release_year,
+        l2.genre_list,
+            count(distinct d.title) as movie_count_per_year
+from
+    lists l2
+join
+    data d
+on
+    find_in_set(l2.genre_list, d.genre) > 0
+and
+    d.type = 'movie' and genre!='Stand up'
+group by d.release_year,l2.genre_list;
+;
+
+-- ----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+-- the number of genres created by a given director
+
+
+select
+    l1.directors_list,
+        l2.genre_list,
+            count(distinct d.title) as genre_count
+from
+    lists l2
+join
+    data d
+on
+    find_in_set(l2.genre_list, d.genre) > 0
+join
+    lists l1
+on
+    (l1.directors_list=d.director
+        or l1.directors_list=d.director_2
+            or l1.directors_list=d.director_3)
+where
+    d.type = 'movie' and genre!='Stand up'
+group by l1.directors_list, l2.genre_list;
+
+
+-- ----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+-- director, the country in which he made and the number of films created in a given country
+
+
+select
+    l1.directors_list,
+        l2.country_list,
+            count(distinct d.title) as movie_count
+from
+    lists l2
+join
+    data d
+on
+    find_in_set(l2.country_list, d.country) > 0
+join
+    lists l1
+on
+    (l1.directors_list=d.director
+        or l1.directors_list=d.director_2
+            or l1.directors_list=d.director_3)
+where
+    d.type = 'movie' and genre!='Stand up'
+group by l1.directors_list, l2.country_list;
+
+
+-- ----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+-- director, genre in which he created and the number of films created in a given genre
+
+
+select
+    l1.directors_list,
+        l2.genre_list,
+            count(distinct d.title) as genre_count
+from
+    lists l2
+join
+    data d
+on
+    find_in_set(l2.genre_list, d.genre) > 0
+
+
+join
+    lists l1
+on
+    (l1.directors_list=d.director
+        or l1.directors_list=d.director_2
+            or l1.directors_list=d.director_3)
+where
+    d.type = 'movie' and genre!='Stand up'
+group by
+    l1.directors_list, l2.genre_list;
+
+
+-- ----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+-- genre list, average genre duration and how many were created
+
+select
+    l2.genre_list as genre,
+            round(avg(d.duration),0) as average_genre_duration,
+                count(d.genre) as genre_count
+from
+    lists l2
+join
+    (select distinct
+         data.title,
+            data.genre,
+                data.duration,
+                    data.type
+     FROM data) d
+on
+    find_in_set(l2.genre_list, d.genre) > 0
+where
+    d.type = 'movie' and genre!='Stand up'
+group by
+    l2.genre_list;
+
+-- ----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+--number of films created in a given country
+
+select
+    l2.country_list as country,
+         count(distinct d.title) as movie_count
+from
+    lists l2
+join
+    data d
+on
+    find_in_set(l2.country_list, d.country) > 0
+and
+    d.type = 'movie' and genre!='Stand up'
+group by
+    l2.country_list;
+
+
+-- ----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+-- the number of films created in a given country in a given year
+
+select
+    d.release_year,
+        l2.country_list,
+            count(distinct d.title) as movie_count
+from
+    lists l2
+join
+    data d
+on
+    find_in_set(l2.country_list, d.country) > 0
+WHERE
+    d.type = 'movie' and genre!='Stand up'
+group by
+    d.release_year,l2.country_list;
+

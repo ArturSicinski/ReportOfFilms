@@ -1,0 +1,1348 @@
+release_year,genre_list,movie_count_per_year
+1920,comedy,1
+1920,Drama,2
+1922,Action,1
+1922,Suspense,1
+1923,Drama,2
+1924,Drama,1
+1925,Action,4
+1925,comedy,1
+1925,Drama,1
+1925,Horror,1
+1925,Western,1
+1926,Romance,1
+1926,Western,1
+1927,comedy,1
+1928,Animation,1
+1929,Action,2
+1929,Adventure,1
+1929,Drama,1
+1930,Action,1
+1930,Arts,1
+1930,comedy,1
+1930,Drama,1
+1930,Romance,1
+1931,Action,1
+1931,Drama,1
+1931,Western,1
+1932,Action,1
+1932,Animation,3
+1932,Drama,4
+1932,Horror,1
+1932,Western,1
+1933,Action,2
+1933,Animation,3
+1933,comedy,1
+1933,Drama,2
+1934,Action,3
+1934,Animation,4
+1934,comedy,1
+1934,Drama,4
+1934,Western,4
+1935,Action,4
+1935,Animation,4
+1935,comedy,2
+1935,Drama,4
+1935,Suspense,1
+1935,Western,4
+1936,Action,6
+1936,Animation,6
+1936,Arts,3
+1936,comedy,5
+1936,Drama,7
+1936,Suspense,2
+1936,Western,5
+1937,Action,6
+1937,Action & Adventure,1
+1937,Animation,5
+1937,Arts,4
+1937,comedy,3
+1937,Drama,6
+1937,Military and War,1
+1937,Western,4
+1938,Action,5
+1938,Action & Adventure,1
+1938,Animation,4
+1938,Arts,1
+1938,comedy,3
+1938,Drama,4
+1938,Western,2
+1939,Action,5
+1939,Adventure,2
+1939,Animation,6
+1939,comedy,3
+1939,Drama,5
+1939,Military and War,1
+1939,Suspense,2
+1939,Western,2
+1940,Action,1
+1940,Action & Adventure,1
+1940,Adventure,1
+1940,Animation,6
+1940,comedy,5
+1940,Drama,5
+1940,Suspense,2
+1940,Western,2
+1941,Action,4
+1941,Animation,7
+1941,Arts,4
+1941,comedy,7
+1941,Drama,5
+1941,Military and War,1
+1941,Western,1
+1942,Action,5
+1942,Animation,6
+1942,Classic Movies,2
+1942,comedy,3
+1942,Drama,1
+1942,Suspense,4
+1942,Western,3
+1943,Action,6
+1943,Adventure,1
+1943,Animation,2
+1943,Arts,1
+1943,Classic Movies,1
+1943,comedy,2
+1943,Documentary,2
+1943,Drama,3
+1943,Suspense,3
+1943,Western,5
+1944,Action,2
+1944,Animation,1
+1944,Arts,2
+1944,Classic Movies,2
+1944,Drama,4
+1944,Special Interest,1
+1944,Western,3
+1945,Action,2
+1945,Animation,1
+1945,Arts,3
+1945,Classic Movies,3
+1945,comedy,1
+1945,Documentary,1
+1945,Drama,4
+1945,Special Interest,1
+1945,Western,1
+1946,Action,3
+1946,Adventure,1
+1946,Animation,2
+1946,Arts,2
+1946,Classic Movies,1
+1946,comedy,1
+1946,Drama,9
+1946,Western,4
+1947,Action,3
+1947,Action & Adventure,1
+1947,Animation,4
+1947,Arts,5
+1947,Classic Movies,1
+1947,comedy,2
+1947,Drama,7
+1947,Western,5
+1948,Action,2
+1948,Adventure,1
+1948,Animation,5
+1948,Arts,1
+1948,comedy,3
+1948,Drama,4
+1948,Suspense,1
+1948,Western,3
+1949,Action,5
+1949,Action & Adventure,1
+1949,Animation,4
+1949,Drama,5
+1949,Special Interest,2
+1949,Western,2
+1950,Action,4
+1950,Action & Adventure,1
+1950,Animals & Nature,1
+1950,Animation,4
+1950,comedy,3
+1950,Drama,7
+1950,Family,1
+1950,Special Interest,4
+1950,Western,5
+1951,Action,2
+1951,Action & Adventure,1
+1951,Adventure,1
+1951,Animals & Nature,1
+1951,Animation,2
+1951,Arts,1
+1951,comedy,2
+1951,Drama,7
+1951,Special Interest,6
+1952,Action,2
+1952,Action & Adventure,1
+1952,Adventure,1
+1952,Animals & Nature,2
+1952,Animation,5
+1952,comedy,3
+1952,Drama,5
+1952,Special Interest,1
+1952,Western,4
+1953,Action,6
+1953,Action & Adventure,1
+1953,Adventure,2
+1953,Animals & Nature,2
+1953,Animation,3
+1953,Arts,1
+1953,comedy,4
+1953,Drama,6
+1953,Western,5
+1954,Action,4
+1954,Action & Adventure,1
+1954,Animals & Nature,1
+1954,Animation,2
+1954,Arts,2
+1954,Children & Family Movies,1
+1954,Classic Movies,1
+1954,comedy,1
+1954,Drama,4
+1954,Horror,1
+1954,Western,1
+1955,Action,5
+1955,Action & Adventure,1
+1955,Animals & Nature,1
+1955,Animation,2
+1955,Arts,1
+1955,Classic Movies,3
+1955,Documentary,3
+1955,Drama,2
+1955,Suspense,1
+1956,Action,6
+1956,Action & Adventure,2
+1956,Animals & Nature,1
+1956,Classic Movies,1
+1956,comedy,3
+1956,Documentary,1
+1956,Drama,7
+1956,Musical,1
+1956,Western,1
+1957,Action,4
+1957,Animals & Nature,2
+1957,Animation,1
+1957,Arts,1
+1957,Classics,1
+1957,comedy,1
+1957,Drama,1
+1957,Horror,1
+1958,Action,5
+1958,Classic Movies,3
+1958,comedy,1
+1958,Drama,8
+1958,Horror,1
+1958,Western,1
+1959,Action,5
+1959,Action & Adventure,2
+1959,Animation,1
+1959,comedy,5
+1959,Drama,3
+1959,Family,1
+1959,Horror,5
+1960,Action,5
+1960,Action & Adventure,3
+1960,Animals & Nature,1
+1960,Arts,1
+1960,Classic Movies,1
+1960,comedy,2
+1960,Coming of Age,1
+1960,Drama,2
+1960,Horror,1
+1960,Science Fiction,1
+1961,Action,1
+1961,Action & Adventure,2
+1961,Animals & Nature,1
+1961,Arts,1
+1961,comedy,3
+1961,Drama,3
+1961,Family,1
+1961,Horror,3
+1961,Science Fiction,1
+1962,Action,2
+1962,Action & Adventure,2
+1962,Animals & Nature,1
+1962,Classic Movies,1
+1962,comedy,3
+1962,Coming of Age,1
+1962,Drama,6
+1962,Horror,1
+1962,Romance,2
+1962,Suspense,1
+1963,Action,3
+1963,Action & Adventure,3
+1963,Animals & Nature,1
+1963,Arts,1
+1963,comedy,8
+1963,Drama,6
+1963,Fantasy,1
+1963,Horror,1
+1963,Western,1
+1964,Action,5
+1964,Action & Adventure,1
+1964,Arts,1
+1964,Classic Movies,2
+1964,comedy,1
+1964,Crime,1
+1964,Drama,4
+1964,Family,1
+1964,Horror,1
+1964,International,1
+1964,Romance,1
+1964,Western,1
+1965,Action,3
+1965,Animals & Nature,2
+1965,Biographical,1
+1965,Classic Movies,2
+1965,comedy,2
+1965,Drama,5
+1965,Horror,1
+1965,Science Fiction,1
+1966,Action,1
+1966,Animals & Nature,1
+1966,Arts,2
+1966,comedy,1
+1966,Documentary,2
+1966,Drama,4
+1966,Horror,1
+1966,Science Fiction,1
+1966,Western,1
+1967,Action,5
+1967,Action & Adventure,2
+1967,Biographical,1
+1967,Classic Movies,3
+1967,comedy,2
+1967,Drama,3
+1967,Horror,2
+1967,Romance,2
+1967,Science Fiction,1
+1967,Western,1
+1968,Action,4
+1968,Action & Adventure,1
+1968,Animation,1
+1968,Arts,2
+1968,Children & Family Movies,1
+1968,Classic Movies,1
+1968,Classics,1
+1968,comedy,3
+1968,Drama,4
+1968,Horror,1
+1968,Science Fiction,2
+1968,Special Interest,2
+1969,Action,5
+1969,Action & Adventure,2
+1969,Arts,1
+1969,Classic Movies,1
+1969,comedy,7
+1969,Documentary,1
+1969,Drama,3
+1969,Science Fiction,1
+1970,Action,8
+1970,Action & Adventure,1
+1970,Adventure,1
+1970,Classic Movies,1
+1970,Classics,1
+1970,comedy,7
+1970,Drama,6
+1970,Horror,1
+1970,Romance,1
+1970,Science Fiction,2
+1971,Action,3
+1971,Action & Adventure,1
+1971,Adventure,1
+1971,Animals & Nature,1
+1971,Children & Family Movies,1
+1971,Classic Movies,3
+1971,comedy,9
+1971,Drama,4
+1971,Family,1
+1971,Science Fiction,1
+1971,Special Interest,1
+1972,Action,3
+1972,Action & Adventure,1
+1972,Adventure,1
+1972,Animals & Nature,2
+1972,Animation,1
+1972,Classic Movies,1
+1972,comedy,5
+1972,Crime,1
+1972,Documentary,1
+1972,Drama,10
+1972,Family,1
+1972,Horror,1
+1972,International,1
+1973,Action,5
+1973,Action & Adventure,5
+1973,Arts,1
+1973,Children & Family Movies,1
+1973,Classic Movies,2
+1973,comedy,5
+1973,Documentary,1
+1973,Drama,6
+1973,Family,1
+1973,Horror,2
+1973,Western,2
+1974,Action,8
+1974,Action & Adventure,2
+1974,Adventure,1
+1974,Animals & Nature,1
+1974,Arts,2
+1974,Classic Movies,2
+1974,Classics,1
+1974,comedy,6
+1974,Culture,1
+1974,Drama,6
+1974,Horror,3
+1974,Kids,1
+1975,Action,7
+1975,Action & Adventure,6
+1975,Adventure,2
+1975,Arts,2
+1975,Classic Movies,3
+1975,comedy,6
+1975,Drama,10
+1975,Horror,2
+1975,News,1
+1976,Action,4
+1976,Action & Adventure,5
+1976,Animals & Nature,1
+1976,Arts,1
+1976,Classic Movies,1
+1976,comedy,5
+1976,Drama,6
+1976,Horror,1
+1976,Western,1
+1977,Action,4
+1977,Action & Adventure,5
+1977,Animals & Nature,1
+1977,Animation,1
+1977,Arts,1
+1977,Children & Family Movies,1
+1977,comedy,4
+1977,Coming of Age,1
+1977,Culture,1
+1977,Documentary,1
+1977,Drama,6
+1977,Horror,1
+1978,Action,5
+1978,Action & Adventure,4
+1978,Adventure,1
+1978,Animation,1
+1978,Arts,2
+1978,Children & Family Movies,1
+1978,Classic Movies,1
+1978,comedy,6
+1978,Drama,6
+1978,Horror,1
+1978,Suspense,1
+1979,Action,9
+1979,Action & Adventure,6
+1979,Classic Movies,3
+1979,comedy,3
+1979,Documentary,1
+1979,Drama,6
+1979,Horror,2
+1979,International,1
+1979,Sports,1
+1979,Stand Up,1
+1979,Suspense,1
+1980,Action,6
+1980,Action & Adventure,9
+1980,Animation,1
+1980,Arts,2
+1980,Classic Movies,2
+1980,comedy,3
+1980,Documentary,1
+1980,Drama,12
+1980,Horror,4
+1980,Science Fiction,1
+1981,Action,7
+1981,Action & Adventure,5
+1981,Classic Movies,3
+1981,comedy,10
+1981,Culture,1
+1981,Documentary,1
+1981,Drama,6
+1981,Horror,2
+1982,Action,5
+1982,Action & Adventure,6
+1982,Animation,1
+1982,Children & Family Movies,1
+1982,Classic Movies,1
+1982,comedy,7
+1982,Culture,1
+1982,Documentary,1
+1982,Drama,13
+1982,Horror,1
+1982,International,1
+1983,Action,6
+1983,Action & Adventure,5
+1983,Animation,1
+1983,comedy,6
+1983,Drama,10
+1983,Stand Up,1
+1983,Suspense,1
+1984,Action,8
+1984,Action & Adventure,7
+1984,Animation,1
+1984,Arts,2
+1984,Classic Movies,2
+1984,Classics,1
+1984,comedy,8
+1984,Documentary,1
+1984,Drama,12
+1984,Fantasy,1
+1984,Horror,1
+1984,Science Fiction,1
+1985,Action,10
+1985,Action & Adventure,6
+1985,Adventure,1
+1985,Arts,4
+1985,Classic Movies,1
+1985,comedy,9
+1985,Documentary,2
+1985,Drama,8
+1985,Horror Movies,1
+1986,Action,12
+1986,Action & Adventure,7
+1986,Adventure,1
+1986,Animation,2
+1986,Arts,3
+1986,Buddy,1
+1986,Children & Family Movies,1
+1986,Classic Movies,1
+1986,comedy,7
+1986,Crime,1
+1986,Documentary,1
+1986,Drama,15
+1986,Horror,4
+1986,Kids,1
+1986,Romance,1
+1986,Western,1
+1987,Action,11
+1987,Action & Adventure,7
+1987,Adventure,1
+1987,Animation,2
+1987,Arts,1
+1987,Buddy,1
+1987,Classic Movies,1
+1987,Classics,1
+1987,comedy,5
+1987,Culture,1
+1987,Drama,8
+1987,Horror,4
+1987,International,1
+1987,Stand Up,2
+1987,Suspense,2
+1987,Thriller,1
+1988,Action,15
+1988,Action & Adventure,5
+1988,Adventure,1
+1988,Animation,1
+1988,Arts,1
+1988,Classic Movies,1
+1988,comedy,17
+1988,Culture,1
+1988,Documentary,2
+1988,Drama,14
+1988,Horror,7
+1988,Suspense,2
+1989,Action,14
+1989,Action & Adventure,7
+1989,Animation,1
+1989,Anime,1
+1989,Arts,2
+1989,Children & Family Movies,3
+1989,Classic Movies,2
+1989,Classics,2
+1989,comedy,8
+1989,Documentary,1
+1989,Drama,13
+1989,Fantasy,3
+1989,Horror,2
+1989,Romance,1
+1989,Stand Up,1
+1989,Suspense,1
+1990,Action,11
+1990,Action & Adventure,9
+1990,Arts,2
+1990,Buddy,1
+1990,Classic Movies,2
+1990,comedy,15
+1990,Documentary,2
+1990,Drama,17
+1990,Horror,1
+1990,International,1
+1990,Stand Up,1
+1990,Suspense,1
+1991,Action,16
+1991,Action & Adventure,3
+1991,Arts,3
+1991,Biographical,2
+1991,Children & Family Movies,2
+1991,Classic Movies,2
+1991,comedy,10
+1991,Drama,22
+1991,Horror,1
+1991,Stand Up,4
+1991,Suspense,1
+1992,Action,15
+1992,Action & Adventure,7
+1992,Adventure,1
+1992,Animation,2
+1992,Arts,2
+1992,Children & Family Movies,1
+1992,Classic Movies,6
+1992,comedy,14
+1992,Coming of Age,1
+1992,Culture,1
+1992,Documentary,3
+1992,Drama,17
+1992,Horror,4
+1992,Horror Movies,1
+1992,Kids,1
+1992,Stand Up,2
+1992,Suspense,2
+1993,Action,14
+1993,Action & Adventure,10
+1993,Adventure,1
+1993,Animation,1
+1993,Arts,3
+1993,Biographical,1
+1993,Buddy,1
+1993,Children & Family Movies,4
+1993,Classic Movies,5
+1993,comedy,20
+1993,Documentary,3
+1993,Drama,31
+1993,Romance,1
+1993,Science Fiction,1
+1993,Sports,1
+1993,Stand Up,1
+1993,Suspense,1
+1993,Thriller,1
+1994,Action,9
+1994,Action & Adventure,13
+1994,Adventure,1
+1994,Animation,1
+1994,Arts,5
+1994,Children & Family Movies,2
+1994,Classic Movies,3
+1994,comedy,15
+1994,Documentary,5
+1994,Drama,39
+1994,Horror,1
+1994,International,1
+1994,Kids,2
+1994,Science Fiction,1
+1995,Action,15
+1995,Action & Adventure,15
+1995,Adventure,1
+1995,Arts,1
+1995,Biographical,1
+1995,Children & Family Movies,3
+1995,comedy,20
+1995,Drama,36
+1995,Fantasy,2
+1995,Horror,2
+1995,Romance,3
+1995,Science Fiction,1
+1995,Suspense,3
+1995,Thriller,1
+1995,Western,1
+1996,Action,12
+1996,Action & Adventure,9
+1996,Adventure,1
+1996,Animation,2
+1996,Arts,3
+1996,Buddy,1
+1996,comedy,24
+1996,Crime,1
+1996,Documentary,1
+1996,Drama,31
+1996,Horror Movies,1
+1996,Kids,1
+1996,Romance,1
+1996,Science Fiction,1
+1996,Suspense,3
+1996,Thriller,1
+1997,Action,15
+1997,Action & Adventure,16
+1997,Adventure,1
+1997,Animals & Nature,1
+1997,Animation,4
+1997,Arts,2
+1997,Black Stories,1
+1997,Children & Family Movies,1
+1997,comedy,26
+1997,Crime,2
+1997,Documentary,4
+1997,Drama,28
+1997,Horror,2
+1997,Horror Movies,2
+1997,Kids,1
+1997,Romance,1
+1997,Science Fiction,1
+1997,Sports,1
+1997,Thriller,2
+1998,Action,15
+1998,Action & Adventure,13
+1998,Adventure,1
+1998,Animation,3
+1998,Arts,2
+1998,Biographical,1
+1998,Buddy,1
+1998,Children & Family Movies,2
+1998,comedy,28
+1998,Coming of Age,1
+1998,Documentary,2
+1998,Drama,30
+1998,Horror,2
+1998,International,1
+1998,Kids,2
+1998,Romance,1
+1998,Sports,1
+1998,Stand Up,1
+1998,Suspense,1
+1998,Thriller,1
+1999,Action,15
+1999,Action & Adventure,15
+1999,Animation,4
+1999,Arts,2
+1999,Biographical,1
+1999,Black Stories,1
+1999,Children & Family Movies,3
+1999,comedy,27
+1999,Coming of Age,4
+1999,Documentary,3
+1999,Drama,29
+1999,Fantasy,1
+1999,Horror,5
+1999,Horror Movies,1
+1999,Kids,1
+1999,Romance,1
+1999,Sports,1
+1999,Suspense,1
+1999,Thriller,2
+2000,Action,13
+2000,Action & Adventure,15
+2000,Adventure,2
+2000,Animals & Nature,1
+2000,Animation,6
+2000,Arts,2
+2000,Biographical,2
+2000,Black Stories,1
+2000,Children & Family Movies,6
+2000,comedy,38
+2000,Coming of Age,2
+2000,Culture,1
+2000,Documentary,2
+2000,Drama,37
+2000,Horror,2
+2000,Horror Movies,2
+2000,Romance,2
+2000,Sports,2
+2000,Stand Up,1
+2000,Suspense,3
+2001,Action,24
+2001,Action & Adventure,15
+2001,Adventure,2
+2001,Animals & Nature,1
+2001,Animation,5
+2001,Arts,1
+2001,Black Stories,1
+2001,Children & Family Movies,4
+2001,comedy,32
+2001,Documentary,3
+2001,Drama,40
+2001,Fantasy,1
+2001,Horror,1
+2001,International,1
+2001,Romance,1
+2001,Stand Up,1
+2001,Suspense,1
+2001,Thriller,2
+2002,Action,28
+2002,Action & Adventure,21
+2002,Adventure,1
+2002,Animation,3
+2002,Arts,7
+2002,Biographical,2
+2002,Children & Family Movies,3
+2002,comedy,24
+2002,Coming of Age,4
+2002,Crime,1
+2002,Documentary,7
+2002,Drama,43
+2002,Horror,6
+2002,Horror Movies,1
+2002,International,3
+2002,Kids,1
+2002,Romance,3
+2002,Science Fiction,2
+2002,Stand Up,1
+2002,Suspense,2
+2002,Thriller,1
+2003,Action,20
+2003,Action & Adventure,27
+2003,Adventure,1
+2003,Animation,6
+2003,Arts,6
+2003,Buddy,2
+2003,Children & Family Movies,6
+2003,comedy,39
+2003,Coming of Age,4
+2003,Crime,1
+2003,Documentary,5
+2003,Drama,28
+2003,Horror,2
+2003,Horror Movies,4
+2003,Romance,3
+2003,Sports,1
+2003,Suspense,3
+2003,Thriller,1
+2004,Action,31
+2004,Action & Adventure,22
+2004,Adventure,2
+2004,Animals & Nature,1
+2004,Animation,7
+2004,Arts,6
+2004,Black Stories,1
+2004,Children & Family Movies,8
+2004,comedy,35
+2004,Coming of Age,1
+2004,Crime,1
+2004,Documentary,7
+2004,Drama,35
+2004,Faith and Spirituality,1
+2004,History,1
+2004,Horror,10
+2004,Horror Movies,1
+2004,Independent Movies,1
+2004,International,3
+2004,Kids,1
+2004,Music,2
+2004,Romance,2
+2004,Special Interest,1
+2004,Sports,1
+2004,Suspense,2
+2005,Action,24
+2005,Action & Adventure,23
+2005,Animals & Nature,2
+2005,Animation,7
+2005,Arts,6
+2005,Biographical,1
+2005,Black Stories,1
+2005,Buddy,1
+2005,Children & Family Movies,7
+2005,comedy,45
+2005,Coming of Age,3
+2005,Documentary,11
+2005,Drama,41
+2005,Fantasy,1
+2005,Horror,4
+2005,Horror Movies,2
+2005,Independent Movies,1
+2005,International,1
+2005,Romance,3
+2005,Science Fiction,1
+2005,Sports,2
+2005,Stand Up,1
+2005,Suspense,3
+2005,Thriller,1
+2006,Action,22
+2006,Action & Adventure,21
+2006,Adventure,3
+2006,Animals & Nature,1
+2006,Animation,7
+2006,Arts,10
+2006,Biographical,2
+2006,Children & Family Movies,7
+2006,comedy,51
+2006,Coming of Age,2
+2006,Documentary,15
+2006,Drama,55
+2006,Family,2
+2006,Horror,13
+2006,Horror Movies,5
+2006,Independent Movies,1
+2006,International,2
+2006,Kids,3
+2006,Music,2
+2006,Romance,5
+2006,Sci-Fi & Fantasy,1
+2006,Special Interest,4
+2006,Sports,2
+2006,Stand Up,4
+2006,Suspense,2
+2006,Thriller,1
+2007,Action,30
+2007,Action & Adventure,21
+2007,Animation,7
+2007,Anime,1
+2007,Arts,7
+2007,Black Stories,1
+2007,Children & Family Movies,9
+2007,comedy,53
+2007,Coming of Age,3
+2007,Culture,1
+2007,Documentary,21
+2007,Drama,67
+2007,Horror,13
+2007,Horror Movies,2
+2007,International,2
+2007,Kids,1
+2007,Music,19
+2007,Romance,1
+2007,Science Fiction,2
+2007,Special Interest,1
+2007,Stand Up,1
+2007,Thriller,1
+2008,Action,28
+2008,Action & Adventure,32
+2008,Animals & Nature,1
+2008,Animation,8
+2008,Arts,21
+2008,Children & Family Movies,11
+2008,comedy,63
+2008,Coming of Age,2
+2008,Concert Film,1
+2008,Documentary,17
+2008,Drama,59
+2008,Horror,7
+2008,Horror Movies,4
+2008,International,4
+2008,LGBTQ,1
+2008,Music,11
+2008,Romance,3
+2008,Science Fiction,1
+2008,Special Interest,1
+2008,Sports,1
+2008,Stand Up,3
+2008,Suspense,3
+2008,Western,1
+2009,Action,25
+2009,Action & Adventure,33
+2009,Animals & Nature,2
+2009,Animation,11
+2009,Anime,2
+2009,Arts,16
+2009,Biographical,1
+2009,Buddy,1
+2009,Children & Family Movies,15
+2009,comedy,58
+2009,Concert Film,1
+2009,Crime,1
+2009,Documentary,16
+2009,Drama,56
+2009,Family,1
+2009,Fantasy,1
+2009,Horror,11
+2009,Horror Movies,9
+2009,Independent Movies,1
+2009,International,5
+2009,Kids,3
+2009,Latino,1
+2009,Music,4
+2009,Mystery,1
+2009,Reality,2
+2009,Sci-Fi & Fantasy,2
+2009,Sports,2
+2009,Stand Up,2
+2009,Suspense,3
+2009,Thriller,1
+2009,Western,3
+2010,Action,36
+2010,Action & Adventure,37
+2010,Adventure,2
+2010,Animals & Nature,3
+2010,Animation,11
+2010,Arts,15
+2010,Children & Family Movies,16
+2010,comedy,85
+2010,Coming of Age,3
+2010,Documentary,26
+2010,Drama,78
+2010,Horror,10
+2010,Horror Movies,8
+2010,International,2
+2010,Kids,2
+2010,Romance,2
+2010,Special Interest,2
+2010,Stand Up,3
+2010,Suspense,4
+2010,Thriller,1
+2011,Action,38
+2011,Action & Adventure,35
+2011,Adventure,2
+2011,Animals & Nature,4
+2011,Animation,12
+2011,Anime,3
+2011,Arts,9
+2011,Black Stories,1
+2011,Buddy,1
+2011,Children & Family Movies,26
+2011,comedy,94
+2011,Coming of Age,1
+2011,Cooking & Food,1
+2011,Crime,2
+2011,Culture,1
+2011,Documentary,30
+2011,Drama,77
+2011,Horror,11
+2011,Horror Movies,6
+2011,International,3
+2011,Military and War,1
+2011,Music,37
+2011,Romance,2
+2011,Special Interest,3
+2011,Sports,1
+2011,Stand Up,5
+2011,Suspense,5
+2011,Thriller,1
+2011,Western,1
+2012,Action,47
+2012,Action & Adventure,36
+2012,Adventure,2
+2012,Animals & Nature,3
+2012,Animation,13
+2012,Anime,3
+2012,Anthology,1
+2012,Arts,19
+2012,Biographical,1
+2012,Black Stories,2
+2012,Children & Family Movies,21
+2012,comedy,88
+2012,Coming of Age,1
+2012,Crime,2
+2012,Documentary,44
+2012,Drama,87
+2012,Faith and Spirituality,1
+2012,Fantasy,2
+2012,Horror,18
+2012,Horror Movies,4
+2012,International,4
+2012,Kids,2
+2012,Romance,2
+2012,Science Fiction,1
+2012,Special Interest,22
+2012,Stand Up,12
+2012,Western,3
+2013,Action,45
+2013,Action & Adventure,37
+2013,Adult Animation,1
+2013,Adventure,4
+2013,Animals & Nature,1
+2013,Animation,11
+2013,Anime,2
+2013,Arts,24
+2013,Biographical,1
+2013,Black Stories,3
+2013,Children & Family Movies,34
+2013,comedy,96
+2013,Coming of Age,1
+2013,Crime,1
+2013,Culture,1
+2013,Documentary,74
+2013,Drama,111
+2013,Horror,16
+2013,Horror Movies,10
+2013,Independent Movies,2
+2013,International,4
+2013,Kids,6
+2013,LGBTQ,1
+2013,Music,1
+2013,Romance,3
+2013,Science Fiction,1
+2013,Special Interest,6
+2013,Sports,3
+2013,Stand Up,9
+2013,Suspense,4
+2013,Thriller,1
+2013,Western,2
+2014,Action,71
+2014,Action & Adventure,50
+2014,Adventure,3
+2014,Animals & Nature,1
+2014,Animation,7
+2014,Anime,2
+2014,Arts,38
+2014,Children & Family Movies,29
+2014,comedy,113
+2014,Coming of Age,1
+2014,Crime,2
+2014,Documentary,80
+2014,Drama,120
+2014,Faith and Spirituality,1
+2014,Fitness,4
+2014,Horror,18
+2014,Horror Movies,16
+2014,International,12
+2014,Kids,7
+2014,LGBTQ,3
+2014,Music,2
+2014,Romance,6
+2014,Sci-Fi & Fantasy,2
+2014,Science Fiction,1
+2014,Special Interest,11
+2014,Sports,5
+2014,Stand Up,11
+2014,Suspense,6
+2014,Thriller,1
+2014,Western,2
+2015,Action,67
+2015,Action & Adventure,60
+2015,Adventure,3
+2015,Animals & Nature,4
+2015,Animation,12
+2015,Anime,4
+2015,Arts,25
+2015,Black Stories,2
+2015,Buddy,1
+2015,Children & Family Movies,23
+2015,comedy,142
+2015,Coming of Age,1
+2015,Documentary,108
+2015,Drama,194
+2015,Family,1
+2015,Fantasy,2
+2015,Horror,20
+2015,Horror Movies,14
+2015,International,7
+2015,Kids,11
+2015,LGBTQ,1
+2015,Romance,5
+2015,Sci-Fi & Fantasy,1
+2015,Special Interest,2
+2015,Sports,2
+2015,Stand Up,16
+2015,Suspense,10
+2015,Thriller,3
+2016,Action,53
+2016,Action & Adventure,92
+2016,Adventure,6
+2016,Animals & Nature,4
+2016,Animation,15
+2016,Anime,8
+2016,Arts,39
+2016,Biographical,3
+2016,Black Stories,2
+2016,Children & Family Movies,41
+2016,comedy,187
+2016,Coming of Age,1
+2016,Concert Film,1
+2016,Cooking & Food,1
+2016,Crime,5
+2016,Documentary,187
+2016,Drama,279
+2016,Faith and Spirituality,1
+2016,Fantasy,1
+2016,Fitness,17
+2016,History,1
+2016,Horror,31
+2016,Horror Movies,28
+2016,Independent Movies,1
+2016,International,21
+2016,Kids,15
+2016,Music,8
+2016,Reality,1
+2016,Romance,4
+2016,Science Fiction,3
+2016,Special Interest,14
+2016,Stand Up,34
+2016,Suspense,19
+2016,Thriller,7
+2016,Variety,1
+2016,Western,1
+2017,Action,81
+2017,Action & Adventure,96
+2017,Adventure,8
+2017,Animals & Nature,5
+2017,Animation,19
+2017,Anime,5
+2017,Arts,24
+2017,Biographical,1
+2017,Black Stories,5
+2017,Children & Family Movies,52
+2017,comedy,204
+2017,Coming of Age,2
+2017,Cooking & Food,1
+2017,Crime,2
+2017,Documentary,255
+2017,Drama,303
+2017,Faith and Spirituality,2
+2017,Family,3
+2017,Fitness,16
+2017,Horror,30
+2017,Horror Movies,37
+2017,Independent Movies,3
+2017,International,15
+2017,Kids,15
+2017,Music,14
+2017,Romance,3
+2017,Romantic Movies,1
+2017,Science Fiction,3
+2017,Special Interest,13
+2017,Sports,4
+2017,Sports Movies,1
+2017,Stand Up,57
+2017,Suspense,7
+2017,Thriller,9
+2017,Western,1
+2018,Action,104
+2018,Action & Adventure,92
+2018,Adventure,5
+2018,Animals & Nature,8
+2018,Animation,18
+2018,Anime,5
+2018,Arts,47
+2018,Black Stories,11
+2018,Children & Family Movies,61
+2018,Classic Movies,1
+2018,comedy,209
+2018,Coming of Age,1
+2018,Cooking & Food,2
+2018,Crime,9
+2018,Culture,1
+2018,Documentary,208
+2018,Drama,338
+2018,Family,2
+2018,Fantasy,2
+2018,Fitness,11
+2018,History,1
+2018,Horror,51
+2018,Horror Movies,43
+2018,Independent Movies,5
+2018,International,16
+2018,Kids,17
+2018,LGBTQ,1
+2018,Music,9
+2018,News,1
+2018,Romance,4
+2018,Romantic Movies,2
+2018,Sci-Fi & Fantasy,6
+2018,Science Fiction,8
+2018,Special Interest,3
+2018,Sports,4
+2018,Stand Up,58
+2018,Suspense,5
+2018,Thriller,8
+2019,Action,160
+2019,Action & Adventure,65
+2019,Adventure,11
+2019,Animals & Nature,4
+2019,Animation,71
+2019,Anime,5
+2019,Arts,41
+2019,Biographical,2
+2019,Black Stories,11
+2019,Children & Family Movies,79
+2019,comedy,266
+2019,Coming of Age,2
+2019,Concert Film,1
+2019,Crime,5
+2019,Documentary,248
+2019,Drama,332
+2019,Faith and Spirituality,2
+2019,Family,1
+2019,Fitness,18
+2019,Horror,73
+2019,Horror Movies,31
+2019,Independent Movies,4
+2019,International,29
+2019,Kids,90
+2019,LGBTQ,1
+2019,Military and War,1
+2019,Music,1
+2019,Reality,2
+2019,Romance,9
+2019,Sci-Fi & Fantasy,1
+2019,Science Fiction,2
+2019,Special Interest,4
+2019,Sports,6
+2019,Stand Up,48
+2019,Suspense,10
+2019,Thriller,11
+2019,Western,2
+2020,Action,147
+2020,Action & Adventure,53
+2020,Adventure,4
+2020,Animals & Nature,22
+2020,Animation,58
+2020,Anime,7
+2020,Arts,46
+2020,Biographical,7
+2020,Black Stories,5
+2020,Buddy,1
+2020,Cartoons,1
+2020,Children & Family Movies,80
+2020,comedy,217
+2020,Coming of Age,3
+2020,Concert Film,1
+2020,Cooking & Food,1
+2020,Crime,6
+2020,Dance,1
+2020,Documentary,212
+2020,Drama,339
+2020,Faith and Spirituality,4
+2020,Family,4
+2020,Fantasy,3
+2020,Fitness,6
+2020,History,2
+2020,Horror,74
+2020,Horror Movies,25
+2020,Independent Movies,1
+2020,International,17
+2020,Kids,52
+2020,LGBTQ,2
+2020,Music,6
+2020,Mystery,1
+2020,News,7
+2020,Reality,1
+2020,Romance,14
+2020,Science & Technology,1
+2020,Science Fiction,11
+2020,Special Interest,14
+2020,Sports,10
+2020,Stand Up,41
+2020,Suspense,23
+2020,Thriller,12
+2020,Young Adult Audience,2
+2021,Action,220
+2021,Action & Adventure,45
+2021,Adventure,4
+2021,Animals & Nature,12
+2021,Animation,75
+2021,Anime,5
+2021,Anthology,1
+2021,Arts,50
+2021,Biographical,4
+2021,Black Stories,3
+2021,Children & Family Movies,38
+2021,comedy,229
+2021,Coming of Age,3
+2021,Concert Film,2
+2021,Cooking & Food,1
+2021,Crime,5
+2021,Documentary,122
+2021,Drama,382
+2021,Family,2
+2021,Fantasy,1
+2021,History,1
+2021,Horror,164
+2021,Horror Movies,17
+2021,International,7
+2021,Kids,28
+2021,LGBTQ,1
+2021,Lifestyle,1
+2021,Music,4
+2021,Musical,1
+2021,News,20
+2021,Reality,1
+2021,Romance,30
+2021,Science Fiction,25
+2021,Special Interest,1
+2021,Sports,12
+2021,Stand Up,12
+2021,Suspense,33
+2021,Thriller,7
+2021,Western,4
